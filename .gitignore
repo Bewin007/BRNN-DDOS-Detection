@@ -1,0 +1,6 @@
+datasets
+*.csv
+__pycache__
+.ipynb_checkpoints
+.qodo
+brnn_model.h5
